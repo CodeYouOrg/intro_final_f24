@@ -63,8 +63,8 @@ header h1 {
 }
 
 .link-btn {
-    background-color: #007bff;
-    color: white;
+    background-color: #229954; /* new green color */:
+    color: white;                                
     text-decoration: none;
     padding: 10px 20px;
     border-radius: 5px;
