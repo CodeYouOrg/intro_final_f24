@@ -203,3 +203,4 @@ Live Server installation: https://code-you.org/students/resources/guides/install
 - If the browser does not refresh automatically after you make changes, press **Ctrl + R** (Windows) or **Command + R** (macOS) to refresh the page and load the latest version.
 
 This will let you see all the changes made to the page in real time.
+#intro_final_f24
